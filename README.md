@@ -4,4 +4,4 @@ Hello! this is the repository which contains my python notebook in using naive b
 
 ## Information
 
-Some of these notebooks I did on kaggle, you can visit my kaggle at [here](https://www.kaggle.com/kemamalaolana)
+Some of these notebooks I did on kaggle, you can visit my kaggle at [here](https://www.kaggle.com/kemalmaolana)
